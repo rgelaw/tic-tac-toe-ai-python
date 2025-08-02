@@ -1,4 +1,3 @@
-# tic-tac-toe-ai-python
 # Tic Tac Toe AI (Console Game)
 
 This is a simple text-based Tic Tac Toe game implemented in Python, featuring a basic AI opponent. The player uses 'X' and competes against an AI that randomly chooses its moves as 'O'. The game continues until a player wins or the match ends in a tie.
